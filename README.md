@@ -6,7 +6,7 @@
     On the terminal, copy and paste the following command
 
    ```bash
-   git clone https://github.com/Aryan-Dot-Dev/Lab-Sheet-2
+   git clone https://github.com/harmanjeet183/dsa-labsheet-2-harman
    ```
 
 2. **Go to the Lab Sheet 2 directory**
